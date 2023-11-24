@@ -1,4 +1,4 @@
-- title: <strong> General Information </strong>
+- title:  General Information 
   type: map
   contents:
     - name: Full Name
@@ -8,7 +8,7 @@
     - name: Languages
       value: English, French, Ewe
 
-- title: <strong> Education </strong>
+- title: Education 
   type: time_table
   contents:
     - title: PhD Candidate in Economics
@@ -34,7 +34,7 @@
         #- Description 1.
         #- Description 2.
 
-- title:  <strong> Experience </strong>
+- title:  Experience
   type: time_table
   contents:
     - title: Economist-Statistician Consultant
@@ -94,7 +94,7 @@
        # year: 2015-now
        # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: <strong> Fellowships, Honors and Awards </strong>
+- title: Fellowships, Honors, and Awards
   type: time_table
   contents:
     - year: 2019-Present
@@ -124,7 +124,7 @@
      #   - Excellence Scholarship, Odon- Vallet, ENSAE, Senegal
     
 
-- title: <strong> Other Interests </strong>
+- title:  Other Interests
   type: list
   contents:
     - <u>Hobbies:</u> Soccer (Football), Travel, Society games.
