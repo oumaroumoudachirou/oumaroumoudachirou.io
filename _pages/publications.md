@@ -23,9 +23,7 @@ nav_order: 1
  <h2 id="research"> <b> Work in progress </b> </h2>
 
   <p> Trade Restrictions and Activity of Multinational Enterprises </p> 
-
- <p> Geo-economic fragmentation: Implications for the global economy, ( with Eklou Kodjovi)  </p>
-
+  
  <p> Climate change and debt sustainability, ( with Fansa Kone and Lucien Chaffa )</p>
 </div>
 
