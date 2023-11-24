@@ -1,11 +1,9 @@
 github_users:
   - torvalds
   - alshedivat
-  - kodjokoudakpo
 
 github_repos:
   - alshedivat/al-folio
-  - kodjokoudakpo/kodjokoudakpo.github.io
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
