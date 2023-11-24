@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-12 09:00:00-0400
+date: 2023-05-18 10:20:00-0400
 inline: true
 ---
 
 
- I presented my paper  Fiscal Rules and Fiscal Policy: A Quantitative Analysis  at the 2023 Société Canadienne de Science Economique (SCSE) conference.
+ I presented my paper  Fiscal Rules and Fiscal Policy: A Quantitative Analysis  at the 18th CIREQ Ph.D. Students' Conference.
