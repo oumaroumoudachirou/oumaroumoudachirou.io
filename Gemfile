@@ -20,7 +20,6 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'jekyll-google_search_console_verification_file'
 end
 group :other_plugins do
     gem 'feedjira'
