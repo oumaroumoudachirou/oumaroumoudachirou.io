@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.umontreal.ca/english/home/) and  a member of [CIREQ](https://cireqmontreal.com/). 
 
 
-<p align="justify">My research focuses on <strong> macroeconomics, fiscal policy, and international economics. </strong> I use quantitative models to address questions relating to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens.   </p>
+<p align="justify">My research focuses on <strong> macroeconomics, fiscal policy, and international economics. </strong> I use quantitative models to address questions related to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens.   </p>
 
 
 <p align="justify"> I also work on national representative household surveys to address public policies, poverty, inequality, and forced displacement questions in developing countries. Please see my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV </a> for more details. </p>
