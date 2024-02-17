@@ -28,7 +28,7 @@ I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.u
 <p align="justify">My research focuses on <strong> macroeconomics, fiscal policy, and international economics. </strong> I use quantitative models to address questions related to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens.   </p>
 
 
-<p align="justify"> Before joining the Ph.D. program, I hold an MSc. in Statistics and Economics, and A BSc in Applied Statistics. I have worked as an Economist-Statistician at  [The World Bank](https://www.worldbank.org/en/who-we-are/), [BCEAO](https://www.bceao.int/en/content/presentation-bceao/), [NORC](https://www.norc.org/about/who-we-are.html/), as well as at National Statistics Office.</p>
+<p align="justify"> Before joining the Ph.D. program, I hold an MSc. in Statistics and Economics, and A BSc in Applied Statistics. I have worked as an Economist-Statistician at  [The World Bank](https://www.worldbank.org/en/who-we-are/), [BCEAO](https://www.bceao.int/en/content/presentation-bceao/), [NORC](https://www.norc.org/), as well as at National Statistics Office.</p>
 
 <p>
 You can reach me at  <a href="mailto:%20kodjo.koudakpo@umontreal.ca"> kodjo.koudakpo@umontreal.ca</a>. Please see my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV </a> for more details. </p>
