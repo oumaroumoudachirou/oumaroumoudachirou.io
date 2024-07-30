@@ -13,8 +13,9 @@ nav_order: 5
     <h5> <strong>Lecturer, </strong> <a href="https://sceco.umontreal.ca/english/home/">University of Montreal</a></h5>
     <ul>
 
-     <li> Econometrics (Undergraduate), Winter 2022, Winter 2024 </li>
-     <li> Introduction to the Economics (Undergraduate), Fall 2022 </li> </ul>
+     <li> Econometrics (Undergraduate): Winter 2022, Winter 2024 </li>
+     <li> Mathematics for Economics Analysis (Undergraduate): Summer 2024 </li>
+     <li> Introduction to the Economics (Undergraduate): Fall 2022, Fall 2024 </li> </ul>
    </div>
   <div class="col-md-12">
   <h5> <strong> Teaching Assistant, </strong>  <a href="https://sceco.umontreal.ca/english/home/">University of Montreal</a></h5>
