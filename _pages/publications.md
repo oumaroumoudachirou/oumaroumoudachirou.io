@@ -24,7 +24,7 @@ nav_order: 1
 
   <p> Trade Restrictions and Activity of Multinational Enterprises </p> 
   
- <p> Climate change and debt sustainability, ( with Fansa Kone and Lucien Chaffa )</p>
+ <p> Transition to Renewables and Public Debt Sustainability, ( with Fansa Kone and Lucien Chaffa )</p>
 </div>
 
 <br/> 
