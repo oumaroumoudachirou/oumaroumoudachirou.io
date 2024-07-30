@@ -5,4 +5,4 @@ inline: true
 ---
 
 
- I presented a work in progress at World Bank Group Seminar (BBL).
+ I presented a work in progress at the World Bank Group Seminar (BBL).
