@@ -5,4 +5,4 @@ inline: true
 ---
 
 
- I presented my paper  Fiscal Rules and Fiscal Policy: A Quantitative Analysis  at the 2023 Société Canadienne de Science Economique (SCSE) conference.
+ I presented a work in progress at World Bank Group Seminar (BBL).
