@@ -31,7 +31,7 @@ I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.u
 <p align="justify"> Before joining the Ph.D. program, I hold an MSc. in Economics and Statistics, and a BSc. in Applied Statistics. I have worked as an Economist-Statistician at <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href='https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>, and <a href='https://www.norc.org/'>NORC</a>, as well as at the National Statistics Office.</p>
 
 <p>
-You can reach me at  <a href="mailto:%20kodjokoudakpo@yahoo.fr"> kodjokoudakpo@yahoo.fr</a>. Please see my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV </a> for more details. </p>
+You can reach me at  <a href="mailto:%20kodjo.koudakpo@umontreal.ca"> kodjo.koudakpo@umontreal.ca</a>. Please see my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV </a> for more details. </p>
 
 
 
