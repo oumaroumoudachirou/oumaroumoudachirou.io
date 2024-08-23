@@ -19,9 +19,9 @@ nav_order: 5
    </div>
   <div class="col-md-12">
   <h5> <strong> Teaching Assistant, </strong>  <a href="https://sceco.umontreal.ca/english/home/">University of Montreal</a></h5>
-  <ul>  <li> Macroeconomics Theory (Undergraduate), Fall 2021, Fall 2022, Fall 2023 </li> 
-  <li> Econometrics (Undergraduate), Fall 2020, Winter 2021, Fall 2021, Winter 2023  </li> 
-  <li> Introduction to Macroeconomics (Undergraduate), Summer 2023 </li>   </ul>
+  <ul>  <li> Macroeconomics Theory (Undergraduate): Fall 2021, Fall 2022, Fall 2023, Fall 2024 </li> 
+  <li> Econometrics (Undergraduate): Fall 2020, Winter 2021, Fall 2021, Winter 2023  </li> 
+  <li> Introduction to Macroeconomics (Undergraduate): Summer 2023, Fall 2024 </li>   </ul>
   </div>
   <div class="col-md-12">
   
