@@ -38,7 +38,7 @@
   type: time_table
   contents:
     - title: Economist-Statistician Consultant
-      institution: World Bank Group, Macro -Trade and Investment, Global Practice, Washington DC, USA
+      institution: World Bank Group, Macro -Trade and Investment, Global Practice, Washington D.C., USA
       year: 2023-2024
       description:
        # - Description 1.
@@ -54,7 +54,7 @@
        # - Description 1.
        # - Description 2.
     - title: Economist-Statistician Consultant
-      institution: World Bank Group, Poverty and Equity, Global Practice, Washington DC, USA
+      institution: World Bank Group, Poverty and Equity, Global Practice, Washington D.C., USA
       year: 2018 - 2023
       description:
        # - Description 1.
@@ -83,7 +83,7 @@
       institution: Laboratoire de Recherche Economiques et Monétaires (LAREM), LAREM, Senegal
       year: 2016
 
-    - title: Research Analyst 
+    - title: Research Assistant 
       institution: Institut National de la Statistique, des Etudes Economiques et de la Démographie, Togo
       year: 2014-2015
 
@@ -97,7 +97,7 @@
 - title: <strong> Fellowships, Honors and Awards </strong>
   type: time_table
   contents:
-    - year: 2019-Present
+    - year: 2019-2023
       items: 
         - Ph.D. Fellowship, Department of Economics, University of Montreal 
         - Ph.D. Fellowship, CIREQ, University of Montreal 
