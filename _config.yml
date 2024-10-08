@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: Moudachirou Oumarou # the website title (if blank, full name will be used instead)
-first_name: Kodjo
+first_name: Moudachirou
 middle_name: 
-last_name: KOUDAKPO
-email: kodjo.koudakpo@umontreal.ca
+last_name: Oumarou
+email: moudachirou.oumarou@umontreal.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal Website!
 footer_text: >
-  Email: kodjo.koudakpo@umontreal.ca <a href="https://kodjokoudakpo.github.io"> Visit my website </a>.  
+  Email: moudachirou.oumarou@umontreal.ca <a href="https://oumaroumoudachirou.github.io"> Visit my website </a>.  
 keywords:  # add your own keywords or leave empty
 
 
